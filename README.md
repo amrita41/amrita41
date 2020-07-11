@@ -1,4 +1,4 @@
-<img src="Hi.gif"/>
+<img src="https://github.com/amrita41/amrita41/raw/master/Hi.gif" alt="alt text" width="100" height="100" style="max-width:100%;">
 
 
 
