@@ -5,5 +5,7 @@
 - 📫 How to reach me: Mail@ amrita@mnnit.ac.in 
 - ⚡ Fun fact: I like reading poetries and sometimes write my own too.<br/><br/>
  ![counter](https://enzfx6ur9k6k5co.m.pipedream.net)
-
+<a href="https://dev.to/amrita41">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amrita41's DEV Profile" height="30" width="30">
+</a>
 
